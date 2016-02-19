@@ -6,9 +6,11 @@
 
 <BODY>
 <form action="guar.php" method="post" name="frm">
-	
+	<u>nombre</u><br>
 	<input type="text" name="nombre" /> <br/> <br/>
+	<u>comentario 1</u><br>
 	<textarea name="comentario1"></textarea> <br/>
+	<u>comentario 2</u><br>
 	<textarea name="comentario2"></textarea> <br/>
 	<style type="text/css">
 		input {border: 1px solid red; //Color del borde
@@ -17,7 +19,7 @@
 		font-family: "Verdana, Arial"; //Tipo de letra
 		font-size: 15px;} //Medida de letra
 	</style>
-
+	<u>old school</u><br>
 
 	<input type="submit" value="guardar dats" />
 	<input type="submit" value="my crazy Life" />
