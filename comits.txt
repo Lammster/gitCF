@@ -1,0 +1,17 @@
+commit 95c9774fdfcde98cafa34997efe83d43b30a74e2
+Author: LAMSTER <lamster1812@gmail.com>
+Date:   Fri Feb 19 14:45:38 2016 -0600
+
+    agregamos boton old school
+
+commit 468fc6877e23dd8696d9a70ae9d9db5c9e77a924
+Author: LAMSTER <lamster1812@gmail.com>
+Date:   Fri Feb 19 14:41:28 2016 -0600
+
+    agregamos my life
+
+commit f67b1fb4dd0a64cf3ba7e122e7670ba48a1b01b5
+Author: LAMSTER <lamster1812@gmail.com>
+Date:   Fri Feb 19 14:37:01 2016 -0600
+
+    agregamos el comit inicial

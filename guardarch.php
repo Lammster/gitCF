@@ -8,8 +8,10 @@
 <form action="guar.php" method="post" name="frm">
 	
 	<input type="text" name="nombre" /> <br/> <br/>
-	<textarea name="comentario"></textarea> <br/>
+	<textarea name="comentario1"></textarea> <br/>
+	<textarea name="comentario2"></textarea> <br/>
 	<input type="submit" value="guardar dats" />
+	<input type="submit" value="my crazy Life" />
 </form>
 
 </BODY>
