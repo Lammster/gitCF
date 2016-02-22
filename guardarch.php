@@ -8,6 +8,8 @@
 <form action="guar.php" method="post" name="frm">
 	<u>nombre</u><br>
 	<input type="text" name="nombre" /> <br/> <br/>
+	<u>edad</u><br>
+	<input type="text" name="edad" /> <br/> <br/>
 	<u>comentario 1</u><br>
 	<textarea name="comentario1"></textarea> <br/>
 	<u>comentario 2</u><br>
@@ -17,10 +19,16 @@
 		background-color: yellow; //Color del fondo
 		color: white; //Color de letra
 		font-family: "Verdana, Arial"; //Tipo de letra
-		font-size: 15px;} //Medida de letra
+		font-size: 20px;} //Medida de letra
 	</style>
 	<u>old school</u><br>
+	<article class="block">
+		<i class="inco-social fa fa-github"></i>
+		<h3>github</h3>
+		<P>hi github</P>
+		<a href="#",class="btn">ver</a>
 
+	</article>
 	<input type="submit" value="guardar dats" />
 	<input type="submit" value="my crazy Life" />
 </form>
