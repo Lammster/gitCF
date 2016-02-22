@@ -29,11 +29,20 @@
 		<P>hi github</P>
 		<a href="#",class="btn">ver</a>
 	</article>
-
+	<table border="3">	</table>
+	<? echo " \t "; ?>
+	<td></td>
 	<article class="block">
 		<i class="inco-social fa fa-istagram"></i>
 		<h3>instagram</h3>
 		<P>hi github</P>
+		<a href="#",class="btn">ver</a>
+	</article>
+
+	<article class="block">
+		<i class="inco-social fa fa-link"></i>
+		<h3>link</h3>
+		<P>my crazy Life</P>
 		<a href="#",class="btn">ver</a>
 	</article>
 	<input type="submit" value="guardar dats" />
