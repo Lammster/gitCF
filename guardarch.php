@@ -22,12 +22,19 @@
 		font-size: 20px;} //Medida de letra
 	</style>
 	<u>old school</u><br>
+
 	<article class="block">
 		<i class="inco-social fa fa-github"></i>
 		<h3>github</h3>
 		<P>hi github</P>
 		<a href="#",class="btn">ver</a>
+	</article>
 
+	<article class="block">
+		<i class="inco-social fa fa-istagram"></i>
+		<h3>instagram</h3>
+		<P>hi github</P>
+		<a href="#",class="btn">ver</a>
 	</article>
 	<input type="submit" value="guardar dats" />
 	<input type="submit" value="my crazy Life" />
