@@ -34,7 +34,8 @@
 	<td></td>
 	<article class="block">
 		<i class="inco-social fa fa-istagram"></i>
-		<h3>instagram</h3>
+		<color>
+		<h3 >instagram</h3>
 		<P>hi github</P>
 		<a href="#",class="btn">ver</a>
 	</article>
